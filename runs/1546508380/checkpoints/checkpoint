@@ -1,0 +1,2 @@
+model_checkpoint_path: "F:\\Python_word\\Deep_learning\\mail-classification\\runs\\1546508380\\checkpoints\\model-100"
+all_model_checkpoint_paths: "F:\\Python_word\\Deep_learning\\mail-classification\\runs\\1546508380\\checkpoints\\model-100"
