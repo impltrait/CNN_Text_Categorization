@@ -2,13 +2,13 @@
 
 邮箱：admihao@163.com
 
-![img](https://raw.githubusercontent.com/BinHaoWang/PM/master/mail-classification/doc/%E5%9E%83%E5%9C%BE%E9%82%AE%E7%AE%B1.png?raw=true)
+![img](https://github.com/atucson/CNN_Text_Categorization/blob/master/doc/%E5%9E%83%E5%9C%BE%E9%82%AE%E7%AE%B1.png?raw=true)
 
 
 -- -
 
 
-![img](https://raw.githubusercontent.com/BinHaoWang/PM/master/mail-classification/doc/%E6%B5%81%E7%A8%8B%E8%AF%B4%E6%98%8E.jpg?raw=true)
+![img](https://github.com/atucson/CNN_Text_Categorization/blob/master/doc/%E6%B5%81%E7%A8%8B%E8%AF%B4%E6%98%8E.jpg?raw=true)
 
 
 -- -
