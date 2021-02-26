@@ -1,6 +1,5 @@
 ### 我这也是借鉴别的写的，有啥不对的请联系我：
 
-邮箱：admihao@163.com
 
 ![img](https://github.com/atucson/CNN_Text_Categorization/blob/master/doc/%E5%9E%83%E5%9C%BE%E9%82%AE%E7%AE%B1.png?raw=true)
 
